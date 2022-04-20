@@ -3,7 +3,7 @@
 
 Fork this repo and create a Full Stack app using languages and frameworks of your choice that, 
 literally, introduces you to us. Submit your response back to us here in the form of a pull 
-request or submit it to us privately. 
+request or submit it to us privately. Please don't spend more than a couple hours on it.
 
 ### Requirements
 * A backend with an API that accepts your name and stores it. The shape of the data 
